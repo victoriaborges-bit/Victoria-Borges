@@ -3,18 +3,18 @@ Desenvolvedora em formação
 
 Meu nome é Victoria Pereira Borges, sou estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS).
 Tenho interesse na área de tecnologia, desenvolvimento de software e estou em constante aprendizado, buscando aprimorar minhas habilidades e adquirir novos conhecimentos na área da programação.
-    <a href="(https://github.com/victoriaborges-bit)">
+        />
+    </a> 
+    <a href="https://github.com/victoriaborges-bit">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="(https://github.com/victoriaborges-bit)
+            title="Total de estrelas GitHub"
         />
     </a>
-    <a href="[https://github.com/victoriaborges-bit">
+    <a href="https://github.com/victoriaborges-bit">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="(https://github.com/victoriaborges-bit)?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -147,14 +147,12 @@ Tenho interesse na área de tecnologia, desenvolvimento de software e estou em c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?](https://github.com/victoriaborges-bit)username=VictoriaBorges&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+      />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github.com/victoriaborges-bit)username=Victoriaborges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200"  
   />
 
 </p>
