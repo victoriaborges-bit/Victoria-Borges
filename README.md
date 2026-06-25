@@ -3,24 +3,6 @@ Desenvolvedora em formação
 
 Meu nome é Victoria Pereira Borges, sou estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS).
 Tenho interesse na área de tecnologia, desenvolvimento de software e estou em constante aprendizado, buscando aprimorar minhas habilidades e adquirir novos conhecimentos na área da programação.
-        />
-    </a> 
-    <a href="https://github.com/victoriaborges-bit">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub"
-        />
-    </a>
-    <a href="https://github.com/victoriaborges-bit">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -138,21 +120,3 @@ Tenho interesse na área de tecnologia, desenvolvimento de software e estou em c
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-      />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"  
-  />
-
-</p>
